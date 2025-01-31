@@ -24,7 +24,7 @@ A Django-based FAQ management system with multilingual support, WYSIWYG editor, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/faq-system.git
+git clone https://github.com/Arindamsamanta2004/faq-system.git
 cd faq-system
 ```
 
@@ -116,7 +116,7 @@ flake8 .
 
 2. Open a Bash console in PythonAnywhere and clone your repository:
 ```bash
-git clone https://github.com/yourusername/faq-system.git
+git clone https://github.com/Arindamsamanta2004/faq-system.git
 ```
 
 3. Create a virtual environment and install dependencies:
@@ -194,4 +194,14 @@ Your FAQ system should now be live at: yourusername.pythonanywhere.com
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+Arindam Samanta
+
+## Acknowledgments
+
+- Thanks to the Django community for the excellent framework
+- Bootstrap team for the UI components
+- CKEditor team for the rich text editor
