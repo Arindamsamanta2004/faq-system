@@ -192,6 +192,12 @@ Your FAQ system should now be live at: yourusername.pythonanywhere.com
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Admin Dashboard
+![Screenshot 2025-02-01 031412](https://github.com/user-attachments/assets/ed562536-9e87-4842-9c21-ff43bec0974f)
+## Frontend UI
+![Screenshot 2025-02-01 031447](https://github.com/user-attachments/assets/dca2f571-c8ee-48c4-bd5c-c2d0c93d0690)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
